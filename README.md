@@ -1,2 +1,2 @@
 # upstream-test
-Conflict
+Hello
