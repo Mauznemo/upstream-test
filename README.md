@@ -1,3 +1,3 @@
 # upstream-test-hello
-upstream update YES
-upstream update YES
+upstream update NO
+upstream update awdadawd
