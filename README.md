@@ -1,2 +1,2 @@
 # upstream-test
-upstream update 1
+upstream update 2
